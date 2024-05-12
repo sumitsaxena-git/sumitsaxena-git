@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sumitsaxena-git
-- 👀 I’m interested in Data, BI, AI and Cloud
+- 👀 I’m interested in Data, AI, BI and Cloud
 - 🌱 I’m currently working on AI/ML applications in Cloud
 - 💞️ I’m looking to collaborate on Algorithms and POC projects
 - 🧠 I enjoy sharing my knowledge and thoughts. You can read my articles and join the discussion at https://sumitsaxenaa.medium.com/
